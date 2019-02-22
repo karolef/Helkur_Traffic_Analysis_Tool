@@ -43,7 +43,7 @@ Describe how to install / setup your local environement / add link to demo versi
 * Report generation
 
 ## Status
-Project is: _in progress_
+Project is: _in progress_  
 Further development in progress
 
 ## Inspiration
