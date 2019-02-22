@@ -51,9 +51,9 @@ Project inspired by Darude and ATA 7.0 Capstone project.
 
 ## Contact
 Created by Helkur Team:
-[kbednarz@akamai.com](mailto:kbednarz@akamai.com)
-[kfatyga@akamai.com](mailto:kfatyga@akamai.com)
-[lfelus@akamai.com](mailto:lfelus@akamai.com)
-[ekuros@akamai.com](mailto:@ekuros@akamai.com)
-[ksulik@akamai.com](mailto:ksulik@akamai.com)
+* [kbednarz@akamai.com](mailto:kbednarz@akamai.com)
+* [kfatyga@akamai.com](mailto:kfatyga@akamai.com)
+* [lfelus@akamai.com](mailto:lfelus@akamai.com)
+* [ekuros@akamai.com](mailto:@ekuros@akamai.com)
+* [ksulik@akamai.com](mailto:ksulik@akamai.com)
 Feel free to contact us!
