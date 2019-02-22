@@ -20,7 +20,13 @@ Simple tool for collecting network traffic information from a chosen device.
 * Apache
 
 ## Setup
-Describe how to install / setup your local environement / add link to demo version.
+* Set up your ftp server on linux via sudo apt install vsftpd - google how to change config and set up users
+* Run traffic_scraper.sh on your linux server - set it up as a cron job and adjust tcpdump parameters to suit your needs
+* Port Python files to a new project
+* Via XAMPP or any other way set up your apache server with MySQL
+* Create a new database with the name you want and adjust the db_name in the python files
+* Run main.py
+* Enjoy!
 
 ## Features
 * Network data collection:
@@ -55,5 +61,5 @@ Created by Helkur Team:
 * [kfatyga@akamai.com](mailto:kfatyga@akamai.com)
 * [lfelus@akamai.com](mailto:lfelus@akamai.com)
 * [ekuros@akamai.com](mailto:@ekuros@akamai.com)
-* [ksulik@akamai.com](mailto:ksulik@akamai.com)
+* [ksulik@akamai.com](mailto:ksulik@akamai.com)  
 Feel free to contact us!
